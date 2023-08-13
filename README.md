@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/catzy68732508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="catzy68732508" height="30" width="40" /></a>
 <a href="https://www.facebook.com/miserere.mei.deus.allegri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/miserere.mei.deus.allegri/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_jaysi_t/(https://www.instagram.com/_jaysi_t/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jaysciiie/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_jaysi_t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jaysciiie/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@jaysii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jaysii" height="30" width="40" /></a>
 </p>
 
