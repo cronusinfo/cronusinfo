@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm jaysi</h1>
 <h3 align="center">Data Engineer | Aspiring AI and Machine Learning Developer</h3>
-<a href="https://app.daily.dev/cronus"><img src="https://api.daily.dev/devcards/a5f23ea1882340a9b82992901bb8a5e3.png?r=37h" width="400" alt="John Carlo Torralba's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/cronus"><img src="https://api.daily.dev/devcards/a5f23ea1882340a9b82992901bb8a5e3.png?r=37h" width="400" alt="John Carlo Torralba's Dev Card"/></a -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/catzy68732508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="catzy68732508" height="30" width="40" /></a>
