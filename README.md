@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm jaysi
-## Data Engineer | Aspiring AI and Machine Learning Developer
+## Data Engineer
 
 ### Connect with me:
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30">](https://twitter.com/catzy68732508)
